@@ -13,11 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=390&height=100&lines=Hi! I'm Anshu Gupta+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</p>
 
 <div align="center">
 
 ## About Me
-Hello, I am a second-year Ph.D. student at the University of California, San Diego, majoring in Computer Engineering. I am a part of <a href="https://turakhia.ucsd.edu/" target="_blank">Turakhia Lab</a> under the supervision of Professor Yatish Turakhia. 
+I am a second-year Ph.D. student at the University of California, San Diego, majoring in Computer Engineering. I am a part of <a href="https://turakhia.ucsd.edu/" target="_blank">Turakhia Lab</a> under the supervision of Professor Yatish Turakhia. 
 
 
 ## Research Interests
