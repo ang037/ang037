@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 ## About Me
-I am a third-year Ph.D. student at the University of California, San Diego, majoring in Computer Engineering. I am a part of <a href="https://turakhia.ucsd.edu/" target="_blank">Turakhia Lab</a> under the supervision of Professor Yatish Turakhia. 
+I am a Ph.D. student at the University of California, San Diego, majoring in Computer Engineering. I am a part of <a href="https://turakhia.ucsd.edu/" target="_blank">Turakhia Lab</a> under the supervision of Professor Yatish Turakhia. 
 
 
 ## Research Interests
